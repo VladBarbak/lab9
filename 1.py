@@ -171,7 +171,7 @@ while True:
         else:
             insertion_down(s)
             xarakteristika_ins(countner=count_ins)
-    result = input("Хотите продолжить? Если да - 1, Если нет - інше: ")  # зацикливаем нашу программу
+    result = input("Хочите продовжити? Якщо так - 1, Якщо ні - інше: ")  # Зациклюємо програму
     if result == '1':
         continue
     else:
